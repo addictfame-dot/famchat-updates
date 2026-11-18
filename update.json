@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "4.5",
-  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V14.apk",
-  "sha256": "522c3f68d1d08ca3fe6c4cf46d64ff38196885edba0fd425019480bd2997f6c5",
-  "releaseNotes": "Random MK chat messages and notification previews"
+  "versionCode": 16,
+  "versionName": "4.7",
+  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V16.apk",
+  "sha256": "71ccb8403cf3aa56de19924ce8d1b7f43a1045e9931b33b5bd8d242a7ea6c8ca",
+  "releaseNotes": "MK voice notes and notification fixes"
 }

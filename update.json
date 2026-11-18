@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "4.4",
-  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V13.apk",
-  "sha256": "3baee08780ed501b828638b345d3952227f8ac3b8dc887d3ccf45a7117014bc0",
-  "releaseNotes": "Keyboard newline fix and MK mood improvements"
+  "versionCode": 14,
+  "versionName": "4.5",
+  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V14.apk",
+  "sha256": "522c3f68d1d08ca3fe6c4cf46d64ff38196885edba0fd425019480bd2997f6c5",
+  "releaseNotes": "Random MK chat messages and notification previews"
 }

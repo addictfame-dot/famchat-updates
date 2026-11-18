@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "4.8",
-  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V17.apk",
-  "sha256": "008278c4177066299332b30c9dab52a80e3aa4f02948d0d46c0d3999bfbbf692",
-  "releaseNotes": "Voice note recording and sending, plus private diaries with six covers, 3D page turns, and inline writing."
+  "versionCode": 18,
+  "versionName": "4.9",
+  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V18.apk",
+  "sha256": "312cbb55910f20a6417df15efe3ecff8d56d2840485d7602166e53b59f11cd9c",
+  "releaseNotes": "Improved voice-note transcription and added photo messages with MK replies."
 }

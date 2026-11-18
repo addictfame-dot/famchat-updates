@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "4.10",
-  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V19.apk",
-  "sha256": "eedf7817492dfa2e24b3cdac1cb4bb16c3342759b9735689bb98afc9b9353bde",
-  "releaseNotes": "One-time opt-in automatic online transcription and improved MK voice replies."
+  "versionCode": 20,
+  "versionName": "4.11",
+  "apkUrl": "https://addictfame-dot.github.io/famchat-updates/FamChat_V20.apk",
+  "sha256": "635e5632fc26d85d9fd6f87e0379ec51ece8ad1a9ecf3a096309cd4d0201ae2f",
+  "releaseNotes": "MK voice replies on request or opt-in and streamlined Send photo menu."
 }
